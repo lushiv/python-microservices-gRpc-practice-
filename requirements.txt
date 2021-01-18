@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.19
+envparse==0.2.0
+grpcio~=1.28.0
+grpcio-tools~=1.28.0
